@@ -1,0 +1,8 @@
+data/caddy*
+data/db
+data/minio
+data/nginx/certs/*.pem
+
+.env
+
+compose.override.yml
