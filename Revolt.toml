@@ -17,7 +17,7 @@ api = "https://api.exapmle.com"
 events = "wss://ws.exapmle.com"
 autumn = "https://exapmle.com"
 january = "https://january.exapmle.com/january"
-voso_legacy = "https://vortex.exapmle.com"
+voso_legacy = "http://vortex:8080"
 voso_legacy_ws = "wss://vortex.exapmle.com/ws"
 
 [api]
